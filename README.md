@@ -14,7 +14,8 @@ The period with the lowest food inflation rate is from 2013 to 2016. After that,
 There is a surge in a few food items between 2022 and 2023, according to the USDA charts. Vegetable oil increased from #1,162.00 to #1,710.00, or around 47%. 
  
 
-![image](https://github.com/rotland/Analysis-General-Inflation-Food-Inflation-in-Nigeria-/assets/65259178/7fa044a8-3a1c-4f5b-8e21-4312eca49d88)
+![image](https://github.com/rotland/Analysis-General-Inflation-Food-Inflation-in-Nigeria-/assets/65259178/0fc01e17-3b45-428e-aafa-e5b0e3925a26)
+
 
 
 # Conclusion 
